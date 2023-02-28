@@ -1,0 +1,14 @@
+{
+  "headerText": {
+    "en-US": "Gallery",
+    "fr-FR": "Galerie"
+  },
+  "toggleGrid": {
+    "en-US": "Grid",
+    "fr-FR": "Grille"
+  },
+  "toggleList": {
+    "en-US": "List",
+    "fr-FR": "Liste"
+  }
+}

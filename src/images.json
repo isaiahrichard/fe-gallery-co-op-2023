@@ -1,0 +1,47 @@
+[
+  {
+    "date": "2020-05-03 12:45:00",
+    "filename": "beach.jpg",
+    "title": {
+      "en-US": "The beach",
+      "fr-FR": "La plage"
+    },
+    "description": {
+      "en-US": "This is a photo of a beach somewhere",
+      "fr-FR": "Ceci est une photo d'une plage quelque part"
+    }
+  }, {
+    "date": "2020-06-06 10:24:10",
+    "filename": "grass.jpg",
+    "title": {
+      "en-US": "Grassy field",
+      "fr-FR": "Champ de hautes herbes"
+    },
+    "description": {
+      "en-US": "This is a photo of a grassy field somewhere",
+      "fr-FR": "Ceci est une photo d'un champ quelque part"
+    }
+  }, {
+    "date": "2020-01-03 01:43:37",
+    "filename": "mountain.jpg",
+    "title": {
+      "en-US": "Mountain view",
+      "fr-FR": "Vue sur la montagne"
+    },
+    "description": {
+      "en-US": "This is a photo of a mountain somewhere",
+      "fr-FR": "Ceci est une photo d'un montage quelque part"
+    }
+  }, {
+    "date": "2020-03-23 11:32:10",
+    "filename": "stars.jpg",
+    "title": {
+      "en-US": "Starry night",
+      "fr-FR": "Nuit étoilée"
+    },
+    "description": {
+      "en-US": "This is a photo of starry sky. A shooting star or something else can be seen flying through space in distance.",
+      "fr-FR": "Ceci est une photo d'un ciel étoilé. Une étoile filante ou autre chose traverse le ciel au loin."
+    }
+  }
+]
